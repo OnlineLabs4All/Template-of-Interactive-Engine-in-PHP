@@ -1,0 +1,4 @@
+# The following will be ignored
+/vendor/
+/composer.lock
+/composer.phar
