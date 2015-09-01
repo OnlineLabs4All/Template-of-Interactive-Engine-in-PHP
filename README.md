@@ -11,4 +11,4 @@ echo '<b>Success!</b> Load Client...';
 with your Interactive Lab Client by using PHP's include-function. To keep the folder structure clean use the folder "client". Note that the include-function of PHP can also have an influence on relative paths of the loaded document.
 
 ## $couponVerified
-The variable $couponVerified (in index.php) is set to true prior the client is included. You can use it in your client to assure, that only verified users access the client. However you can also rename it as you wih.
+The variable $couponVerified (in index.php) is set to true prior the client is included. You can use it in your client to assure, that only verified users access the client. However you can also rename it as you wish.
