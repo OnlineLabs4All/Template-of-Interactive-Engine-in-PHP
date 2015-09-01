@@ -51,6 +51,7 @@ try {
 		echo '<b>Unauthorized!</b> (Error Message: ' . $response->body->errorMessage . ')';
 		exit;
 	} else {
+		$couponVerified = true;
 		//Load client
 		echo '<b>Success!</b> Load Client...';//delete this line
 		//include_once('./client/LabClient.php');
